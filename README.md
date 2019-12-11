@@ -7,6 +7,7 @@ Workshop BigQuery ML
 - [ ] Ying : [Getting started with BigQuery ML](https://cloud.google.com/bigquery-ml/docs/bigqueryml-web-ui-start)
 - [ ] [BigQuery ML SQL templates for common marketing use cases](https://github.com/GoogleCloudPlatform/bigquery-ml-templates/)
 - [ ] Ying : [Lessons Learned Using Google Cloud BigQuery ML](https://towardsdatascience.com/lessons-learned-using-google-cloud-bigquery-ml-dfd4763463c)
+- [ ] [How to tune a BigQuery ML classification model to achieve a desired precision or recall](https://towardsdatascience.com/how-to-tune-a-bigquery-ml-classification-model-to-achieve-a-desired-precision-or-recall-e4d40b93016a)
 
 ## Qwicklabs
 - [ ] [Predict Taxi Fare with a BigQuery ML Forecasting Model](https://google.qwiklabs.com/focuses/1797?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3968098)
