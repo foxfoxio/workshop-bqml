@@ -14,7 +14,7 @@ Workshop BigQuery ML
 - [ ] <kbd>Qwicklabs</kbd>[Implement a Helpdesk Chatbot with Dialogflow & BigQuery ML](https://google.qwiklabs.com/focuses/4414?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3968098)
 
 ## Logistic Regresion
-- [ ] Qwicklabs:[NCAA® March Madness®: Bracketology with Google Cloud](https://www.qwiklabs.com/focuses/4337?parent=catalog)
+- [ ] <kbd>Qwicklabs</kbd>[NCAA® March Madness®: Bracketology with Google Cloud](https://www.qwiklabs.com/focuses/4337?parent=catalog)
 
 ## k-mean clustering
 - [ ] <kbd>Google</kbd>[Creating a k-means clustering model](https://cloud.google.com/bigquery-ml/docs/kmeans-tutorial)
