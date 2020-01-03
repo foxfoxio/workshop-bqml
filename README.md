@@ -3,8 +3,8 @@ Workshop BigQuery ML
 
 ## ETC
 - [ ] <kbd>Google</kbd>[Getting started with BigQuery ML](https://cloud.google.com/bigquery-ml/docs/bigqueryml-web-ui-start)
-- [ ] [BigQuery ML: key features walkthrough](https://www.coursera.org/lecture/gcp-big-data-ml-fundamentals/bigquery-ml-key-features-walkthrough-KUEiL)
 - [ ] <kbd>Google</kbd>[BigQuery ML SQL templates for common marketing use cases](https://github.com/GoogleCloudPlatform/bigquery-ml-templates/)
+- [ ] [BigQuery ML: key features walkthrough](https://www.coursera.org/lecture/gcp-big-data-ml-fundamentals/bigquery-ml-key-features-walkthrough-KUEiL)
 - [ ] [Lessons Learned Using Google Cloud BigQuery ML](https://towardsdatascience.com/lessons-learned-using-google-cloud-bigquery-ml-dfd4763463c)
 - [ ] [How to tune a BigQuery ML classification model to achieve a desired precision or recall](https://towardsdatascience.com/how-to-tune-a-bigquery-ml-classification-model-to-achieve-a-desired-precision-or-recall-e4d40b93016a)
 
